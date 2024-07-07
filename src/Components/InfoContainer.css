@@ -1,0 +1,21 @@
+.info-container {
+    background-color: #ebeaf6;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.info-container h2 {
+    color: #4c1d1d;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.info-container p {
+    color: #4c1d1d;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}

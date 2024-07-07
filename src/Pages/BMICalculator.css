@@ -1,0 +1,9 @@
+.bmi-calculator-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-container {
+    background-color: #ffffff; /* Background color for the form */
+    padding: 20px;
+}
