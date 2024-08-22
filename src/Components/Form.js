@@ -598,8 +598,8 @@ export const Form = () => {
         Goal: ${goalDescription}`;
 
         emailjs
-            .sendForm('service_gmzpblp', 'template_qthku2k', form.current, {
-                publicKey: 'fChZaMwU22ZfE1Sqk',
+            .sendForm('service_i8gecjg', 'template_0k4zbn9', form.current, {
+                publicKey: 'AnuL5mA5GOkuA08Ku',
             })
             .then(
                 () => {
